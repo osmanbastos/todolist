@@ -32,11 +32,8 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
     },
     checkCircle: {
-        borderWidth: 2,
         width: 25,
         height: 25,
-        borderRadius: 12,
-        borderColor: 'white',
     },
     taskTitle: {
         color: 'white',
