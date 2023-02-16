@@ -1,10 +1,16 @@
 {
   "expo": {
     "name": "todolist",
-    "slug": "todolist",
+    "slug": "listatarefa",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "282956ff-b08c-4c97-8759-f48535b300de"
+      }
+    },
+    "owner": "osmanbastos"
   }
 }
