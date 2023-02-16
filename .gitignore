@@ -57,3 +57,11 @@ buck-out/
 .expo/
 web-build/
 dist/
+
+# Others
+babel.config.js
+index.js
+metro.config.js
+package-lock.json
+package.json
+.buckconfig

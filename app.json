@@ -11,6 +11,9 @@
         "projectId": "282956ff-b08c-4c97-8759-f48535b300de"
       }
     },
-    "owner": "osmanbastos"
+    "owner": "osmanbastos",
+    "android": {
+      "package": "com.osmanbastos.listatarefa"
+    }
   }
 }
